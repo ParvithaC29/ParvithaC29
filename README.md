@@ -113,16 +113,15 @@
 
 <hr/>
 
-<hr/>
+<hr>
 
-<h2 align="center">🏆 GitHub Trophies 🏆</h2>
-<br>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=parvithaC29&theme=algolia&column=6&margin-w=15&margin-h=15" />
+<h2 style="text-align:center;">🏆 GitHub Trophies 🏆</h2>
+
+<div style="text-align:center;">
+  <img src="https://github-profile-trophy.vercel.app/?username=parvithaC29&theme=algolia&column=6&margin-w=15&margin-h=15" style="max-width:100%; height:auto;" />
 </div>
 
-<br/>
-<hr/>
+<hr>
 
 ### 📌 Credits
 This README template is adapted from [salesp07](https://github.com/salesp07) and is licensed under the [MIT License](https://opensource.org/licenses/MIT).
