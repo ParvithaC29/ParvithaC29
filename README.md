@@ -9,7 +9,7 @@
 <br/>
 
 <div align="center">
- 
+
  🔭 I’m currently working on **Deepfake Detection & Data Science Projects** 
  
  🌱 I’m currently learning **Machine Learning, Deep Learning, and Data Visualizations**  
@@ -18,8 +18,8 @@
 
 ⚡ Fun fact: **Did you know 90% of the world’s data was created in just the last 2 years?**  
 
- </div>
- 
+</div>
+
 <div align="center"> 
   <!-- Gmail -->
   <a href="mailto:parvithac31@gmail.com">
@@ -37,7 +37,7 @@
   </a>
 </div>
 
- <hr/>
+<hr/>
 
 <h2 align="center">⚒️ Languages · Frameworks · Tools ⚒️</h2>
 <br/>
@@ -83,13 +83,6 @@
 <br/>
 <hr/>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/parvithaC29/parvithaC29/output/github-contribution-grid-snake.svg" />
-  <br/><br/><br/>
-</div>
-
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
@@ -113,8 +106,6 @@
 
 <hr/>
 
-<hr/>
-
 <h2 align="center">🏆 GitHub Trophies 🏆</h2>
 <br>
 <div align="center">
@@ -123,3 +114,29 @@
 
 <br/>
 <hr/>
+
+<h2 align="center">✨ Dynamic Highlights ✨</h2>
+<br/>
+
+<div align="center">
+
+<!-- Dynamic Contribution Graph -->
+[![Activity Graph](https://activity-graph.herokuapp.com/graph?username=parvithaC29&theme=react-dark)](https://github.com/parvithaC29)
+
+<br/><br/>
+
+<!-- Dynamic Typing Banner -->
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=28&color=00BFFF&center=true&vCenter=true&width=600&height=60&duration=4000&lines=Hey+there👋;Exploring+AI+%26+ML;Data+Science Enthusiast;Turning+Data+into+Stories" />
+
+<br/><br/>
+
+<!-- Dynamic Fun Fact / Quote -->
+> 💡 Fun Fact: "90% of the world’s data was created in the last 2 years!"  
+
+</div>
+
+<br/>
+<hr/>
+
+### 📌 Credits
+This README template is adapted from [salesp07](https://github.com/salesp07) and is licensed under the [MIT License](https://opensource.org/licenses/MIT).
